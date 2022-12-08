@@ -1,1 +1,0 @@
-C:\Users\nikhi\AppData\Local\UiPath\app-21.2.0-beta0044>Uirobot.exe -f "C:\Users\nikhi\OneDrive\Documents\UiPath\BlankLibrary\A+B=12 and A+B=3 and data upload on anytellerDemo using dynamic selector.xaml"
